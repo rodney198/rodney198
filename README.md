@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rodney198
+- 👋 Hi, I’m Rodney Pinto
 - 👀 I’m interested in application development
 - 🌱 I’m currently learning iOS Application development.
 - 📫 How to reach me on https://www.linkedin.com/in/rodney-pinto-097934182
